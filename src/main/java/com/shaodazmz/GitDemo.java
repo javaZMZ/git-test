@@ -11,5 +11,6 @@ public class GitDemo {
         System.out.println("zmzniubi");
         System.out.println("hello git 3");
         System.out.println("hello git 4");
+        System.out.println("hello master_test");
     }
 }
